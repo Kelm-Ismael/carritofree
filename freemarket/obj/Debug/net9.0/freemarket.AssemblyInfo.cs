@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("freemarket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+527e4ec6df639e9570407b7d2b5c8c52eb4034b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("freemarket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("freemarket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

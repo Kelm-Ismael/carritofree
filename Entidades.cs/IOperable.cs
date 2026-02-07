@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Entidades.cs
 {
-    internal class Class3
+    public interface IOperable 
     {
+        decimal CalcularTotal();
+
     }
 }
